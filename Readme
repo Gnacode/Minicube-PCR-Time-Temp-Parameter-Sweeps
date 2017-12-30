@@ -1,0 +1,8 @@
+Readme
+
+The three files in this repository will let you design sweeps of temperature and time for 2 and 3 stage PCR reactions on a Minicube PCR machine.
+
+The asynchroneous functions of the minicube makes the combination of experiments that can be carried out are endless.
+
+Imagine doing a variation on initial melting time and optimize annealing time at the same machine. All stages in PCR cycle can be varied in temperature and time making it possible to do months of work in just 30 minutes - giving you have minicube pcr machines enough. 
+
